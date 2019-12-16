@@ -1,4 +1,6 @@
 aaaaa
 aaaaaaaa
 aaaaaaaaaaaaa 	edit by master
-bbbbbbbbb    edit by hot_fix 
+aaaaaaaaaaaaa edit by hot_fix
+bbbbbbbbb    edit by hot_fix
+>>>>>>> hot_fix
